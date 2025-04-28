@@ -2,7 +2,7 @@
 
 A modern, scalable, **web-based chat application** built with **Azure services** that simulates SMS/MMS messaging with support for real-time communication, delivery status, multimedia sharing, group messaging, and campaign notifications.
 
-> 🚀 Built in 1 week using Azure Serverless Stack (Functions, SignalR, Cosmos DB, Blob Storage, Static Web Apps)
+
 
 ---
 
@@ -133,8 +133,8 @@ func start
 ## 👨‍💻 Contributors
 
 - [Harish M](https://github.com/harishm)
-- [Ganesh](https://github.com/ganesh-dev)
-- [Aniruth](https://github.com/aniruth-ai)
+- [Ganesh](https://github.com/)
+- [Aniruth](https://github.com/)
 
 ---
 
