@@ -33,9 +33,8 @@ A modern, scalable, **web-based chat application** built with **Azure services**
 
 | Layer            | Technology Used                     |
 |------------------|--------------------------------------|
-| **Frontend**     | React + Tailwind CSS (or HTML+JS)    |
+| **Frontend**     | HTML + CSS+ Js                       |
 | **Backend**      | Azure Functions (HTTP Trigger)       |
-| **Real-time**    | Azure SignalR Service (Serverless)   |
 | **Database**     | Azure Cosmos DB (NoSQL)              |
 | **Storage**      | Azure Blob Storage (for MMS)         |
 | **Hosting**      | Azure Static Web Apps                |
@@ -43,19 +42,6 @@ A modern, scalable, **web-based chat application** built with **Azure services**
 
 ---
 
-## 🏗️ Architecture
-
-```
-[Frontend UI]
-     |
-[Azure Static Web App] ←→ [Azure SignalR (Real-Time)]
-     |
-[Azure Functions (API)]
-     |
- ┌────────────┬───────────────┬───────────────┐
- │ Cosmos DB  │ Blob Storage  │ Group Manager │
- └────────────┴───────────────┴───────────────┘
-```
 
 ---
 
@@ -108,18 +94,11 @@ func start
   - `Ganesh` – Frontend and Chat UI
   - `Aniruth` – MMS, Group Chat, Admin Panel
 
-> Sprint duration: 1 week  
 > Backlog, queries, and analytics configured
 
 ---
 
-## 📷 Screenshots
 
-| Chat UI | Group Panel | Admin Campaign |
-|--------|-------------|----------------|
-| ![](./screens/chat.png) | ![](./screens/group.png) | ![](./screens/admin.png) |
-
----
 
 ## 🚀 Future Improvements
 
