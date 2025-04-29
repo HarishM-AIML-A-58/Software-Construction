@@ -132,4 +132,3 @@ This project is licensed under the MIT License. See [LICENSE](./LICENSE) for det
 
 ---
 
-> 💬 Feel free to fork, contribute, or reach out if you want to build on top of this platform!
