@@ -23,10 +23,6 @@ A modern, scalable, **web-based chat application** built with **Azure services**
 - Add or remove members from groups
 - Real-time updates delivered to all participants
 
-### 📣 SMS Campaigns (Admin)
-- Admins can broadcast messages to all users or targeted segments
-- Campaign messages appear as regular messages for recipients
-
 ---
 
 ## 💻 Tech Stack
