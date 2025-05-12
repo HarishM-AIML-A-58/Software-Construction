@@ -92,7 +92,7 @@ func start
 - Work assigned across 3 developers:
   - `Harish M` – Azure setup, SignalR, Function API
   - `Ganesh` – Frontend and Chat UI
-  - `Aniruth` – MMS, Group Chat, Admin Panel
+  - `Aniruth` – MMS, Group Chat
 
 > Backlog, queries, and analytics configured
 
@@ -112,8 +112,8 @@ func start
 ## 👨‍💻 Contributors
 
 - [Harish M](https://github.com/harishm)
-- [Ganesh](https://github.com/)
-- [Aniruth](https://github.com/)
+- [Ganesh](https://github.com/GaneshS-AIML-46)
+- [Aniruth](https://github.com/AniruthSV)
 
 ---
 
